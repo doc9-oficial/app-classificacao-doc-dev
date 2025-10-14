@@ -21,6 +21,7 @@
   },
   "functions": {
     "classificarDocumento": {
+      "name": "Classificar Documento - Which AI",
       "script": "dist/classificarDocumento.js",
       "description": "Classifica tipo de documento jurídico",
       "category": "judicial",
@@ -43,6 +44,7 @@
       }
     },
     "detectarCategoria": {
+      "name": "Detectar Categoria - Which AI",
       "script": "dist/detectarCategoria.js",
       "description": "Detecta categoria de documento",
       "category": "judicial",
